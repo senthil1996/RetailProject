@@ -35,5 +35,9 @@ if __name__ == '__main__':
 
     logger.info("this is the end of main")
 
+<<<<<<< Updated upstream
 
     Hello world after making changes in the main git stat
+=======
+    new branch
+>>>>>>> Stashed changes
